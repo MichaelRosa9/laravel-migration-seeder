@@ -6,8 +6,8 @@
       </a>
     </li>
     <li>
-      <a href="#">
-        Travel
+      <a href="{{route('trips')}}">
+        Trips
       </a>
     </li>
     <li>
